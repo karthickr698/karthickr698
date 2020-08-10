@@ -51,6 +51,6 @@
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthickr698&theme=monokai&hide_langs_below=1&layout=compact" alt="stars" style="margin:0" />
-<img src="https://github-readme-stats.vercel.app/api?username=karthickr698&count_private=true&show_icons=true&theme=monokai&hide=contribs" alt="stats" style="margin:0 20px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthickr698&theme=monokai&hide_langs_below=1&layout=compact" alt="stars" />
+<img src="https://github-readme-stats.vercel.app/api?username=karthickr698&count_private=true&show_icons=true&theme=monokai&hide=contribs" alt="stats" style="margin:0 20px;height:" />
 </p>
