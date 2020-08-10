@@ -20,7 +20,7 @@
 
 <br><br><br>
 
-<img align="right" src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif?cid=ecf05e47axse3z79m99qlstooai6bbw4cfaapzsnm52jwdpm&rid=giphy.gif" width="500px" >
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500px" >
 <h3>About Me:</h1>
 <ul>
   <li>😄 I'm an aspiring Full-Stack Developer, proficient in both frontend and backend technologies, data structures and algorithms.</li>
