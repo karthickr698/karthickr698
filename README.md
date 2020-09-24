@@ -26,7 +26,7 @@
   <li>😄 I'm an aspiring Full-Stack Developer, proficient in both frontend and backend technologies, data structures and algorithms.</li>
   <li>⚡ Ablity to create end-to-end applications effectively, either independently or in a team collaboration.</li>
   <li>🔭 Seeking opportunity to join an organization where I can contribute towards individual and company's growth.</li>
-  <li>📫 How to reach me: <a href="mailto:rkarthick410@gmail.com">skktangirala@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:rkarthick410@gmail.com">rkarthick410@gmail.com</a></li>
   <li>💬 Ask me about anything, I am happy to help!</li>
 </ul>
 
