@@ -2,7 +2,7 @@
 <!-- <hr> -->
 <p>
   <a href="https://karthick-portfolio.netlify.app/">
-    <img align="left" src="https://image.flaticon.com/icons/svg/265/265674.svg](https://cdn-icons-png.flaticon.com/512/1077/1077012.png" width="26px" />
+    <img align="left" src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png" width="26px" />
   </a>
    <a href="https://twitter.com/Karthic62464392">
     <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
